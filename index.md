@@ -8,7 +8,7 @@
 - Exploring San Diego
 - Signing my heart out in the car
 
-Click [This](#to-find-my-readme-file)
+Click [This for the Readme Section](#to-find-my-readme-file)
 
 
 ```git status```
