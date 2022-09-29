@@ -24,9 +24,9 @@ To learn more about me [My Linkedin](https://www.linkedin.com/in/siya-rajpal)
 3. Music
 
 ## My current to-do's ##
-- [ ] Get through sorority recruitment
+- [ ] Get through sorirty recruitment
 - [ ] Do my laundry
-- [ ] Clean my room
+- [ ] Meal-prep
 
 ### A Photo of Me ###
 
