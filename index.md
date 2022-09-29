@@ -1,6 +1,6 @@
 # Siya Rajpal
-**3rd Year, Political Science Major**
-> Technical Breadth in Computer Science
+**3rd Year, Political Science - Data Analytics Major**
+> Technical Breadth in Computer Science.
 > I'm very passionate about creating products through programming/engineering that will help those in my generation
 ## When I'm not coding I'm.... ##
 - Painting
@@ -24,9 +24,9 @@ To learn more about me [My Linkedin](https://www.linkedin.com/in/siya-rajpal)
 3. Music
 
 ## My current to-do's ##
-- [ ] Get through sorirty recruitment
-- [ ] Do my laundry
-- [ ] Meal-prep
+- [x] Meal-prep 
+- [ ] Get through sorority recruitment
+- [ ] Do Laundry
 
 ### A Photo of Me ###
 
